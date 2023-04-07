@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">add</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv1">ENTER FIRST NUM</string>
+    <string name="tv2">ENTER SECOND NUM </string>
+    <string name="btn1">ADD</string>
+    <string name="rslt"></string>
+
+</resources>
